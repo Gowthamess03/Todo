@@ -45,7 +45,7 @@
 
 .list p {
   padding: 10px;
-  position: relative; /*This will bring the icon inside the div*/
+  position: relative; 
 }
 
 .list p input,
